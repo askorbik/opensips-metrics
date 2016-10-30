@@ -28,4 +28,4 @@ opensips dialogs number (active + early states)
 
 opensips release causes (using redis for opensips "onreply" log storage)
 
-![opensips releases](http://195.154.255.170/img/releases_causes.png)
+![opensips releases](http://195.154.255.170/img/rel-gh.png)
