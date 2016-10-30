@@ -24,7 +24,7 @@ Using Grafana as GUI:
 
 opensips dialogs number (active + early states)
 
-![opensips dialogs](http://195.154.255.170/img/cscf.png)
+![opensips dialogs](http://195.154.255.170/img/cscf-gh.png)
 
 opensips release causes (using redis for opensips "onreply" log storage)
 
