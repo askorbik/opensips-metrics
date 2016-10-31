@@ -7,7 +7,7 @@ Part of IMS Dynamics VoIP Metrics
 Description
 -----------
 
-VoIP statistics for OpenSips. The module fifo, xmlrpc or unixsock are polled every **n** secondes using Celery, then the stats are parsed then pushed to InfluxDB.
+VoIP statistics for OpenSips. The module xmlrpc is polled every 5 seconds using Celery task, then the stats are parsed then pushed to InfluxDB.
 
 
 Requirements
